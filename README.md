@@ -7,7 +7,7 @@
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
   </a>
 </p>
-𝗚𝗣𝗧𝟯 - 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱'𝘀 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗡𝗟𝗣 𝗺𝗼𝗱𝗲𝗹, 𝘄𝗵𝗶𝗰𝗵 𝘄𝗮𝘀 𝗿𝗲𝗹𝗲𝗮𝘀𝗲𝗱 𝗯𝘆 OpenAI , from generating codes to believable stories, this model has been put to use for a wide range of applications which contains 125-175 million neurons . So **Kautilya** is GPT3 based Sanskrit Slokas generator. 
+𝗚𝗣𝗧𝟯 - 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱'𝘀 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗡𝗟𝗣 𝗺𝗼𝗱𝗲𝗹, 𝘄𝗵𝗶𝗰𝗵 𝘄𝗮𝘀 𝗿𝗲𝗹𝗲𝗮𝘀𝗲𝗱 𝗯𝘆 OpenAI , from generating codes to believable stories, this model has been put to use for a wide range of applications which contains 125-175 million neurons . So 𝗞𝗮𝘂𝘁𝗶𝗹𝘆𝗮 is GPT3 based Sanskrit Slokas generator. 
 
 ## ⚡ Installation 
 
@@ -19,8 +19,8 @@
 
 ## ⚡ Setup
 ```
-~> **Enter your Your_OpenAI_GPT3_API_KEY in 'openai.api_key' inside Kautilya.py**
-~> **Then enter the below command to start Sanskrit Slokas generator**
+~> 𝗘𝗻𝘁𝗲𝗿 𝘆𝗼𝘂𝗿 𝗬𝗼𝘂𝗿_𝗢𝗽𝗲𝗻𝗔𝗜_𝗚𝗣𝗧𝟯_𝗔𝗣𝗜_𝗞𝗘𝗬 𝗶𝗻 '𝗼𝗽𝗲𝗻𝗮𝗶.𝗮𝗽𝗶_𝗸𝗲𝘆' 𝗶𝗻𝘀𝗶𝗱𝗲 𝗞𝗮𝘂𝘁𝗶𝗹𝘆𝗮.𝗽𝘆
+~> Then enter the below command to start Sanskrit Slokas generator
 
 ~> python3 Kautilya.py
 ```
