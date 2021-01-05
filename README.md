@@ -24,6 +24,7 @@
 
 ~> python3 Kautilya.py
 ```
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/7pvxurvd2t8oy6zq8bbt.png)
 
 ## ❤️ Contribution
 You can contribute in following ways:
